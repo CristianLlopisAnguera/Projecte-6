@@ -4,7 +4,7 @@
 
 #Versió:
 
-#Descripció(programa): Retorna el nom utilitzant un print.
+#Descripció(programa): Aquest programa retorna el nom utilitzant un print.
 
 nom="CRISTIAN"
 print("El meu nom és:", nom)
