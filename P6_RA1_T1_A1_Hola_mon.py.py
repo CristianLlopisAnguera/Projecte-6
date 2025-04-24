@@ -6,8 +6,6 @@
 
 #Descripció(programa):
 
-#
-
 #PRINT
 #-----------------------------
 print ("Hola mon!")
